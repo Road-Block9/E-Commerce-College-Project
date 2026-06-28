@@ -6,7 +6,7 @@ A simple mini e-commerce project created for a college internship task. It uses 
 
 - HTML
 - CSS
-- Vanilla JavaScript
+- JavaScript
 
 ## APIs Used
 
@@ -17,15 +17,12 @@ A simple mini e-commerce project created for a college internship task. It uses 
 
 - Product listing page with clean product cards
 - Product image, title, brand/category, price, discount, and rating
-- Product detail page using URL query parameter
 - Add to cart from listing page and detail page
-- Cart data stored in `localStorage`
 - Increase, decrease, and remove cart items
 - Clear cart option
 - Bill summary with total items, subtotal, discount amount, delivery charge, and grand total
 - Cart item count in navbar
-- Loading and error states
-- Responsive design for desktop, tablet, and mobile
+
 
 ## How to Run the Project Locally
 
@@ -47,4 +44,3 @@ Upload all project files to a GitHub repository:
 - `script.js`
 - `README.md`
 
-Make sure the repository is public or shared as required by your internship submission instructions.
